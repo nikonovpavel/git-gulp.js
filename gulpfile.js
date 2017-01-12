@@ -33,7 +33,7 @@ var path = {
 	},
 	//path source file
 	src: {
-		html: 'dev/**/*.html',
+		html: 'dev/*.html',
 		scss: 'dev/scss/style.scss',
 		js: 'dev/js/script.js',
 		img: 'dev/img/**/*.*',
